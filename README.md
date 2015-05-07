@@ -5,7 +5,7 @@ The original data is provided by Chunghwa Post Co., Ltd.
 
 ---
 A snippet of original data
-<br><i><u>last update: 2014/12/25  official ver.10312</u></i>
+<br><i><u>last update: 2015/05/07  official ver.10403</u></i>
 <pre><code>
 10058臺北市中正區  八德路１段              全                            
 10079臺北市中正區  三元街                  單全                          
