@@ -20,7 +20,7 @@ A snippet of original data
 A snippet of address_data.sql where any street name contains "１、２、３．．．"　
 <br>the chars are replaced by "一、二、三"
 and "台" are replaced by "臺"
-<br><i><u>last update: 2014/12/25</u></i>
+<br><i><u>last update: 2015/05/07</u></i>
 <pre><code>
 ...
 INSERT INTO `address_name` (`uid`, `name`, `link`) VALUES
