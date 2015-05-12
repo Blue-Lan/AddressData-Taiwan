@@ -5,7 +5,7 @@ The original data is provided by Chunghwa Post Co., Ltd.
 
 ---
 A snippet of original data
-<br><i><u>last update: 2015/05/10  official ver.10403</u></i>
+<br><i><u>last update: 2015/05/12  official ver.10403</u></i>
 <pre><code>
 10058臺北市中正區  八德路１段              全                            
 10079臺北市中正區  三元街                  單全                          
@@ -20,7 +20,7 @@ A snippet of original data
 A snippet of address_data.sql where any street name contains "１、２、３．．．"　
 <br>the chars are replaced by "一、二、三"
 and "台" are replaced by "臺"
-<br><i><u>last update: 2015/05/10</u></i>
+<br><i><u>last update: 2015/05/12</u></i>
 <pre><code>
 ...
 INSERT INTO `address_name` (`uid`, `name`, `link`) VALUES
